@@ -11,4 +11,4 @@ uri = "heroku/php"
 uri = "heroku/python"
 
 [[build.buildpacks]]
-uri = "https://github.com/jkutner/heroku-buildpack-ngrok.git"
+uri = "https://github.com/jkutner/heroku-buildpack-ngrok"
