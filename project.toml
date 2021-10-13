@@ -1,0 +1,2 @@
+[[build.buildpacks]]
+uri = "https://github.com/jkutner/heroku-buildpack-ngrok.git"
