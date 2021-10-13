@@ -1,7 +1,4 @@
 [[build.buildpacks]]
-uri = "https://github.com/jkutner/heroku-buildpack-ngrok.git"
-
-[[build.buildpacks]]
 uri = "heroku/nodejs"
 
 [[build.buildpacks]]
@@ -12,3 +9,6 @@ uri = "heroku/php"
 
 [[build.buildpacks]]
 uri = "heroku/python"
+
+[[build.buildpacks]]
+uri = "https://github.com/jkutner/heroku-buildpack-ngrok.git"
